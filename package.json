@@ -3,7 +3,11 @@
 	"displayName": "tao-semantic-syntax-highlighting",
 	"description": "Basic TAO semantic syntax highlighting",
 	"version": "0.0.1",
-	"publisher": "vscode-samples",
+	"publisher": "tao",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/tree-annotation/tao-vscode-semantic-highlighting.git"
+	},
 	"engines": {
 		"vscode": "^1.42.0"
 	},
